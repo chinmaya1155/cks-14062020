@@ -5,10 +5,10 @@ and we will also use Pytest Unit test framework and how we can version control o
 
 Let's Start!
 
-..*Installing Python on Windows
-..*Selenium Packages
-..*Installing PyCharm IDE
-..*Selenium WebDrivers
-..*Some Knowledge Portals
-..*PyTest Framework
-..*Versioning with GitHub
+..* Installing Python on Windows
+..* Selenium Packages
+..* Installing PyCharm IDE
+..* Selenium WebDrivers
+..* Some Knowledge Portals
+..* PyTest Framework
+..* Versioning with GitHub
